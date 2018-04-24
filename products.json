@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wave",
+      "symbol": "👋",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "Sunglasses Smiley",
+      "symbol": "😎",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "Cheeseburger",
+      "symbol": "🍔",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "name": "Alien",
+      "symbol": "👾",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Balloon",
+      "symbol": "🎈",
+      "price": 5
+    },
+    {
+      "id": 6,
+      "name": "Floppy Disk",
+      "symbol": "💾",
+      "price": 500
+    },
+    {
+      "id": 7,
+      "name": "Umbrella",
+      "symbol": "☂️",
+      "price": 20
+    },
+    {
+      "id": 8,
+      "name": "Pig",
+      "symbol": "🐷",
+      "price": 10
+    },
+    {
+      "id": 9,
+      "name": "Owl",
+      "symbol": "🦉",
+      "price": 50
+    },
+    {
+      "id": 10,
+      "name": "Cactus",
+      "symbol": "🌵",
+      "price": 70
+    },
+    {
+      "id": 11,
+      "name": "Moonface",
+      "symbol": "🌝",
+      "price": 50
+    },
+    {
+      "id": 12,
+      "name": "Dango",
+      "symbol": "🍡",
+      "price": 25
+    }
+  ]
+}
