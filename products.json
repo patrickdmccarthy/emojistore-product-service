@@ -5,9 +5,9 @@
     "text": "These basic white socks will make your feet feel right at home. Perfect with trainers, or sandals (if you are German)",
     "price": "14",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/white_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/white_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/white_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/white_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/white_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/white_small.jpg"
     }
   }, {
     "id": 2,
@@ -15,9 +15,9 @@
     "text": "Whether you are a maths nerd, or a geography teacher, these geometric socks will show everyone you know your coordinates",
     "price": "12",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/geo_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/geo_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/geo_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/geo_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/geo_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/geo_small.jpg"
     }
   }, {
     "id": 3,
@@ -25,9 +25,9 @@
     "text": "If your cat is your best friend, these socks are for you. They will virtually guarantee you will never go on a date with anyone else again.",
     "price": "18",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/cat_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/cat_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/cat_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/cat_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/cat_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/cat_small.jpg"
     }
   }, {
     "id": 4,
@@ -35,9 +35,9 @@
     "text": "Do you love your herbs? You will love these socks. They basically scream out for the policy to pull you over and search your vehicle",
     "price": "10",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/plant_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/plant_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/plant_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/plant_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/plant_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/plant_small.jpg"
     }
   }, {
     "id": 5,
@@ -45,9 +45,9 @@
     "text": "Hotdog, the best invention since sliced bread. Now also available for you to wear on your feet, wherever you go.",
     "price": "22",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/hotdog_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/hotdog_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/hotdog_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/hotdog_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/hotdog_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/hotdog_small.jpg"
     }
   }, {
     "id": 6,
@@ -55,9 +55,9 @@
     "text": "You own a pug? Then you just need to buy these cute pug-socks. So the little one is with you wherever you go.",
     "price": "9",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/pug_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/pug_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/pug_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/pug_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/pug_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/pug_small.jpg"
     }
   }, {
     "id": 7,
@@ -65,9 +65,9 @@
     "text": "Whether you buy them for yourself or your grandchildren, these socks are just amazing (and be honest you would never admit to buy them for yourself",
     "price": "14",
     "img": {
-      ".large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/puppy_large.jpg",
-      ".medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/puppy_medium.jpg",
-      ".small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/puppy_small.jpg"
+      "large": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/puppy_large.jpg",
+      "medium": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/puppy_medium.jpg",
+      "small": "https://s3-eu-west-1.amazonaws.com/socks-cdn/images/puppy_small.jpg"
     }
   }]
 }
