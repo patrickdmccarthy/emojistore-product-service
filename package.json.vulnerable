@@ -1,0 +1,23 @@
+{
+  "name": "product-service",
+  "version": "0.0.1",
+  "description": "a simple microservice that returns a list of products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "micro -p $PORT",
+    "dev": "micro-dev"
+  },
+  "author": "Patrick McCarthy",
+  "license": "ISC",
+  "dependencies": {
+    "whereis": "0.4.0",
+    "add": "^2.0.6",
+    "micro": "^9.3.0",
+    "micro-cors": "^0.1.0",
+    "microrouter": "^3.1.2"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.2"
+  }
+}

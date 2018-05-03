@@ -66,7 +66,7 @@ docker-lint:
   before_script:
     - docker version
   script:
-    - docker run --rm --env CODECLIMATE_CODE="$PWD" -v "$PWD":/code -v /var/run/docker.sock:/var/run/docker.sock -v /tmp/cc:/tmp/cc codeclimate/codeclimate analyze
+    - docker run --rm --env CODECLIMATE_CODE="$PWD" -v "$PWD":/code -v /var/run/docker.sock:/var/run/docker.sock -v /tmp/cc:/tmp/cc codeclimate/codeclimate analyze | awk '{print;print > "/dev/stderr"}' |grep "1:" > /dev/null && exit 1
     - docker run --rm -v "$PWD:/app" node:alpine /bin/sh -c "cd /app; npm install; chmod -R 777 *"
     - docker run --rm -e "SNYK_TOKEN=7ce645a9-8bf8-4f8a-9240-9e34855d50bf" -v "$PWD:/project" snyk/snyk-cli:npm test
   allow_failure: true
